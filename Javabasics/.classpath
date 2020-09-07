@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/plugin.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/resources.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/rt.jar"/>
+	<classpathentry kind="lib" path="src/Selenium/Jar/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
